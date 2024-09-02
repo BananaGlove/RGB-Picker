@@ -1,0 +1,9 @@
+KEYBINDS:
+	"1": RED
+	"2": GREEN
+	"3": BLUE
+	"4": YELLOW
+	"5": ORANGE
+	"6": PURPLE
+	"7": WHITE
+	"8": BLACK
